@@ -1,2 +1,2 @@
 # jogo-do-pong
-jogo do pong no javascript
+## PROFESSOREA  ELIANE MÁRCIA MUDREI
